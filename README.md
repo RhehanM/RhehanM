@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" >
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhehan7&label=Profile%20views&color=0e75b6&style=flat" alt="rhehan7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RhehanM&label=Profile%20views&color=0e75b6&style=flat" alt="rhehan7" /> </p>
 
 - 🔭 Digital Business undergraduate student at [Universitas Pendidikan Indonesia](https://bisnisdigital.upi.edu/)
 
